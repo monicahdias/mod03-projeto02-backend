@@ -1,0 +1,116 @@
+[
+  {
+    "flavor": "Açaí com Leite Condensado",
+    "description": "Paleta sabor açaí com recheio de leite condensado",
+    "photo": "./assets/images/acai-com-leite-condensado.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Banana com Nutella",
+    "description": "Paleta sabor banana com recheio de nutella",
+    "photo": "./assets/images/banana-com-nutella.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Chocolate Belga",
+    "description": "Paleta feita com o melhor chocolate belga",
+    "photo": "./assets/images/chocolate-belga.png",
+    "price": 10.0
+  },
+  {
+    "flavor": "Chocolate Belga com Brigadeiro",
+    "description": "Paleta sabor chocolate belga com recheio de brigadeiro",
+    "photo": "./assets/images/chocolate-belga-com-brigadeiro.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Chocolate Branco",
+    "description": "Paleta feita com o melhor chocolate branco",
+    "photo": "./assets/images/chocolate-branco.png",
+    "price": 10.0
+  },
+  {
+    "flavor": "Coco",
+    "description": "Paleta sabor coco feita com a própria fruta",
+    "photo": "./assets/images/coco.png",
+    "price": 10.0
+  },
+  {
+    "flavor": "Coco com Doce de Leite",
+    "description": "Paleta sabor coco com recheio de doce de leite",
+    "photo": "./assets/images/coco-com-doce-de-leite.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Cookies",
+    "description": "Paleta feita com cookies, dando um toque crocante",
+    "photo": "./assets/images/cookies.png",
+    "price": 10.0
+  },
+  {
+    "flavor": "Doce de Leite com Doce de Leite",
+    "description": "Paleta sabor doce de leite com recheio de doce de leite",
+    "photo": "./assets/images/doce-de-leite-com-doce-de-leite.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Limão",
+    "description": "Paleta sabor limão feita com a própria fruta",
+    "photo": "./assets/images/limao.png",
+    "price": 10.0
+  },
+  {
+    "flavor": "Maracujá",
+    "description": "Paleta sabor maracujá feita com a própria fruta",
+    "photo": "./assets/images/maracuja.png",
+    "price": 10.0
+  },
+  {
+    "flavor": "Maracujá com Leite Condensado",
+    "description": "Paleta sabor maracujá com recheio de leite condensado",
+    "photo": "./assets/images/maracuja-com-leite-condensado.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Milho Verde",
+    "description": "Paleta sabor milho verde com o verdadeiro sabor do fruto",
+    "photo": "./assets/images/milho-verde.png",
+    "price": 10.0
+  },
+  {
+    "flavor": "Morango",
+    "description": "Paleta sabor morango feita com a própria fruta",
+    "photo": "./assets/images/morango.png",
+    "price": 10.0
+  },
+  {
+    "flavor": "Morango com Leite Condensado",
+    "description": "Paleta sabor morango com recheio de leite condensado",
+    "photo": "./assets/images/morango-com-leite-condensado.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Morango com Nutella",
+    "description": "Paleta sabor morango com recheio de nutella",
+    "photo": "./assets/images/morango-com-nutella.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Ninho com Nutella",
+    "description": "Paleta sabor ninho com recheio de nutella",
+    "photo": "./assets/images/ninho-com-nutella.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Ninho com Ovomaltine",
+    "description": "Paleta sabor ninho com recheio de ovomaltine",
+    "photo": "./assets/images/ninho-com-ovomaltine.png",
+    "price": 14.0
+  },
+  {
+    "flavor": "Uva",
+    "description": "Paleta sabor uva feita com a própria fruta",
+    "photo": "./assets/images/uva.png",
+    "price": 10.0
+  }
+]
