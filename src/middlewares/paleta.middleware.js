@@ -12,10 +12,10 @@ const validObjectBody = (req, res, next) => {
   const paleta = req.body;
   if (
     !paleta ||
-    !paleta.flavor ||
-    !paleta.description ||
-    !paleta.price ||
-    !paleta.photo
+    !paleta.sabor ||
+    !paleta.descricao ||
+    !paleta.preco ||
+    !paleta.foto
   ) {
     return res
       .status(400)
@@ -27,7 +27,7 @@ const validObjectBody = (req, res, next) => {
 const validObjectBodyCarrinho = (req, res, next) => {
   const carrinho = req.body;
   carrinho.forEach((item) => {
-    if (!item || !item.paletaId || !item.quantity) {
+    if (!item || !item.paletaId || !item.quantidade) {
       return res
         .status(400)
         .send({ message: 'Envie todos os campos preenchidos!' });

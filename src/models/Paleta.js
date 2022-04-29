@@ -1,19 +1,19 @@
 const mongoose = require('mongoose');
 
 const PaletaSchema = new mongoose.Schema({
-  flavor: {
+  sabor: {
     type: String,
     require: true,
   },
-  description: {
+  descricao: {
     type: String,
     require: true,
   },
-  price: {
+  preco: {
     type: Number,
     require: true,
   },
-  photo: {
+  foto: {
     type: String,
     require: true,
   },

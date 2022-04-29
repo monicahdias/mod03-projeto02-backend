@@ -5,7 +5,7 @@ const CarrinhoSchema = new mongoose.Schema({
     type: String,
     require: true,
   },
-  quantity: {
+  quantidade: {
     type: Number,
     require: true,
   },
