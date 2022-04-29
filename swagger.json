@@ -94,10 +94,10 @@
               "examples": {
                 "Paletas": {
                   "value": {
-                    "sabor": "Maracuja",
-                    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
-                    "foto": "./assets/images/maracuja.png",
-                    "preco": 4
+                    "flavor": "Maracuja",
+                    "description": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+                    "photo": "./assets/images/maracuja.png",
+                    "price": 4
                   }
                 }
               }
@@ -144,10 +144,10 @@
               "examples": {
                 "Paletas": {
                   "value": {
-                    "sabor": "Limão Editado",
-                    "descricao": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
-                    "foto": "./assets/images/limao.png",
-                    "preco": 7
+                    "flavor": "Limão Editado",
+                    "description": "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+                    "photo": "./assets/images/limao.png",
+                    "price": 7
                   }
                 }
               }
@@ -289,16 +289,16 @@
       "Paletas": {
         "type": "object",
         "properties": {
-          "sabor": {
+          "flavor": {
             "type": "string"
           },
-          "descricao": {
+          "description": {
             "type": "string"
           },
-          "foto": {
+          "photo": {
             "type": "string"
           },
-          "preco": {
+          "price": {
             "type": "number"
           }
         }
