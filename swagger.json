@@ -11,6 +11,10 @@
   },
   "servers": [
     {
+      "url": "https://api-elgeladon-blue-mod03.onrender.com/paletas",
+      "description": "API de produção Render"
+    },
+    {
       "url": "http://localhost:3000/paletas",
       "description": "API de teste"
     },
