@@ -2,6 +2,8 @@
 
 ## Link do frontend do projeto: https://github.com/monicahdias/mod03-projeto02-frontend.git
 
+## Deploy: https://api-elgeladon-blue-mod03.onrender.com/paletas/api-docs
+
 ![image](https://user-images.githubusercontent.com/97922536/164991345-20360f33-9bf3-4d8d-8a8e-26309edf2ec8.png)
 
 ## Requisitos do projeto
